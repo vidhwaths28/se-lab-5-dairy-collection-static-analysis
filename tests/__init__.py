@@ -1,0 +1,1 @@
+"""Dairy collection regression tests."""
